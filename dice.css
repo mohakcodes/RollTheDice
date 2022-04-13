@@ -34,6 +34,7 @@ body
     background-color: rgb(94, 255, 0);
     position: relative;
     background: linear-gradient(140deg , cyan 0% , rebeccapurple 40% , deeppink 90% );
+    height: 100vh;
 }
 
 img
